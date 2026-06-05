@@ -47,19 +47,21 @@ function App() {
         <div className="about-right">
 
           <p>
-            I am a mathematics student at IISER Mohali
-            with strong interests in linear algebra,
-            optimization,
-            scientific computing,
-            and interdisciplinary research.
+            Mathematics, computation, and research-driven problem solving.
           </p>
-
+           <p>
+            I am a BS-MS Mathematics & Scientific Computing student at IISER Mohali 
+             with interests spanning computational complexity theory, optimization, 
+             scientific computing, machine learning, and
+             the mathematical foundations of computation.
+           </p>
           <p>
-            My work combines mathematical reasoning
-            with experimental sciences,
-            computational analysis,
-            and data-driven approaches
-            to real-world scientific problems.
+               My academic journey combines rigorous mathematical training with 
+               interdisciplinary research experience across theoretical mathematics,
+               computational methods, materials science, and artificial intelligence.
+               Through research internships at IIT Kharagpur, IIT Kanpur, IIT Patna,
+               and IISER Mohali, I have explored both analytical and
+               experimental approaches to solving scientific problems.
           </p>
 
         </div>
@@ -89,8 +91,8 @@ function App() {
         </p>
 
         <h2 className="section-title">
-          Research-driven
-          academic projects.
+          Research, AI, and 
+          scientific computing projects.
         </h2>
 
         <div className="project-layout">
@@ -102,12 +104,17 @@ function App() {
             <div className="project-content">
 
               <span>
-                Optimization • Polymer Research
+                Optimization • Scientific Computing
+                Computational Linear Algebra & Optimization
               </span>
 
               <h3>
-                Linear Polymer Synthesis
-                from Waste-derived PLA
+                Aerospace Hydraulic Digital Twin & AI Risk Prediction System 
+                Developed a graph-based aerospace hydraulic network simulator,
+                 trained machine learning models for failure prediction, 
+                 and built a FastAPI-powered digital twin dashboard for 
+                 real-time risk assessment.
+
               </h3>
 
             </div>

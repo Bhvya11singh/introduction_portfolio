@@ -8,7 +8,7 @@
 }
 
 body{
-  background:#f5f2ed;
+  background:#FAE7DC;
   color:#111;
   font-family:'Montserrat', sans-serif;
   overflow-x:hidden;
@@ -90,7 +90,7 @@ body{
     flex-direction:column;
     gap:20px;
   }
-
+   }
   .nav-links{
     gap:20px;
     flex-wrap:wrap;
@@ -106,7 +106,7 @@ body{
 
   align-items:center;
 
-  padding:0 8%;
+  padding:180px 8% 80px;
   gap:80px;
 }
 
@@ -552,15 +552,6 @@ body{
   }
 
 }
-/* PREMIUM TRANSITIONS */
-
-*{
-  transition:
-  background-color 0.4s ease,
-  color 0.4s ease,
-  border-color 0.4s ease;
-}
-
 /* SMOOTH IMAGE MOTION */
 
 .hero-image img{
@@ -589,5 +580,4 @@ body{
   transition:
   transform 0.8s cubic-bezier(0.22,1,0.36,1),
   box-shadow 0.8s ease;
-}
 }
